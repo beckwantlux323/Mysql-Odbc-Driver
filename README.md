@@ -196,4 +196,4 @@ This repository serves as the official landing page for MySQL ODBC Driver. The s
 **Get the most recent version of MySQL ODBC Driver today!**
 
 ---
-**Last updated:** 2026-11-12 23:04:13 UTC
+**Last updated:** 2026-11-13 04:36:06 UTC
